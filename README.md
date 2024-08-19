@@ -8,7 +8,7 @@
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevintanjc&layout=compact&langs_count=7&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
+## Visitor Count:
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.deno.dev/kevintanjc/count.svg" alt="Key:: Visitor's Count" />
 </p>
